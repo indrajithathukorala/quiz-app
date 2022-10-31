@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266809636312",
+    "project_id": "flutter-doodle",
+    "storage_bucket": "flutter-doodle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266809636312:android:a2a0a1ab8cda6edb2a2ead",
+        "android_client_info": {
+          "package_name": "com.example.iq_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266809636312-ofou3h5coa8t5ecs598t9an86vq8r4jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMv8PVVAqLMTIo3kNlR47w8vHnhLyCpxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266809636312-ofou3h5coa8t5ecs598t9an86vq8r4jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
